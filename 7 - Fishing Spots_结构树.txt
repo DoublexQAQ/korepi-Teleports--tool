@@ -1,0 +1,86 @@
+7 - Fishing Spots
+├── 00.Fishing Spots Summary
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm
+├── 01.Medaka
+│   ├── Teyvat
+│   └── The Chasm
+├── 02.Glaze Medaka
+│   └── Teyvat
+├── 03.Sweet-Flower Medaka
+│   ├── Teyvat
+│   └── The Chasm
+├── 04.Aizen Medaka
+│   └── Teyvat
+├── 05.Dawncatcher
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm
+├── 06.Crystalfish
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm
+├── 07.Lunged Stickleback
+│   ├── Enkanomiya
+│   └── Teyvat
+├── 08.Betta
+│   ├── Teyvat
+│   └── The Chasm
+├── 09.Venomspine Fish
+│   └── Teyvat
+├── 10.Akai Maou
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm
+├── 11.Snowstrider (Teyvat)
+├── 12.Golden Koi
+│   └── Teyvat
+├── 13.Rusty Koi
+│   └── Teyvat
+├── 14.Brown Shirakodai
+│   ├── Teyvat
+│   └── The Chasm
+├── 15.Purple Shirakodai
+│   ├── Enkanomiya
+│   └── Teyvat
+├── 16.Tea-Colored Shirakodai
+│   └── Teyvat
+├── 17.Abiding Angelfish (Teyvat)
+├── 18.Raimei Angelfish (Teyvat)
+├── 19.Pufferfish
+│   ├── Teyvat
+│   └── The Chasm
+├── 20.Bitter Pufferfish
+│   ├── Teyvat
+│   └── The Chasm
+├── 21.True Fruit Angler
+│   └── Teyvat
+├── 22.Peach of the Deep Waves
+│   └── Teyvat
+├── 23.Sandstorm Angler
+│   └── Teyvat
+├── 24.Sunset Cloud Angler
+│   └── Teyvat
+├── 25.Lazurite Axe Marlin
+│   └── Teyvat
+├── 26.Halcyon Jade Axe Marlin
+│   └── Teyvat
+├── 27.Divda Ray
+│   └── Enkanomiya
+├── 28.Formalo Ray
+│   └── Enkanomiya
+├── 29.Streaming Axe Marlin
+│   └── Teyvat
+├── 30.Rippling Heartfeather Bass
+│   └── Teyvat
+├── 31.Blazing Heartfeather Bass
+│   └── Teyvat
+├── 32.Maintenance Mek Initial Configuration
+│   └── Teyvat
+├── 33.Maintenance Mek Water Body Cleaner
+│   └── Teyvat
+├── 34.Maintenance Mek Situation Controller
+│   └── Teyvat
+└── 35.Maintenance Mek Platinum Collection
+    └── Teyvat

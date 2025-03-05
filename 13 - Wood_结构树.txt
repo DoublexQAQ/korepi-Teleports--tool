@@ -1,0 +1,21 @@
+13 - Wood
+├── Adhigama Wood
+├── Aralia Wood
+├── Ash Wood
+├── Athel Wood
+├── Bamboo Segment
+├── Birch Wood
+├── Brightwood
+├── Cypress Wood
+├── Fir Wood
+├── Fragrant Cedar Wood
+├── Karmaphala Wood
+├── Linden Wood
+├── Mallow Wood
+├── Maple Wood
+├── Mountain Date Wood
+├── Otogi Wood
+├── Pine Wood
+├── Sandbearer Wood
+├── Torch wood
+└── Yumemiru Wood

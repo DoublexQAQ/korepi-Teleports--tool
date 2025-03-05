@@ -1,0 +1,25 @@
+8 - Bosses
+├── Aeonblight Drake
+├── Anemo Hypostasis
+├── Cryo Hypostasis
+├── Cryo Regisvine
+├── Dendro Hypostasis
+├── Electro Hypostasis
+├── Electro Regisvine
+├── Emperor of Fire and Iron
+├── Geo Hypostasis
+├── Golden Wolflord
+├── Hydro Hypostasis
+├── Icewind Suite
+├── Iniquitous Baptist
+├── Jadeplume Terrorshroom
+├── Lupus Boreas, Dominator of Wolves
+├── Maguu Kenki
+├── Oceanid
+├── Perpetual Mechanical Array
+├── Primo Geovishap
+├── Pyro Hypostasis
+├── Pyro Regisvine
+├── Rimebiter Bathysmal Vishap
+├── Ruin Serpent
+└── Setekh Wenut

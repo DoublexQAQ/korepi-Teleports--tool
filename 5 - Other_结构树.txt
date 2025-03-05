@@ -1,0 +1,49 @@
+5 - Other
+├── 1 Tent Tortoise
+├── 4.6 Quest - Canticles of Harmony
+│   ├── 00 Prelude - Petrichorror Dream
+│   ├── 01 First Movement - In the Hall of the Sea King
+│   ├── 02 Second Movement - Prisoner In Shackles
+│   ├── 03 Third Movement - Pharsalia's Rhapsody
+│   │   ├── Part I
+│   │   └── Part II
+│   └── Blank Score
+├── 9 Desert Clearance
+├── 15 Praetorian Golem
+│   └── Sea of Bygone Eras
+├── 26 Fishing Point
+│   ├── Inazuma
+│   ├── Liyue
+│   └── Mondstadt
+├── 28 Trishiraite
+├── 59 Radiant Spincrystal
+│   └── Radiant Spincrystal(Till 4.0)
+├── 66 Rainbow Rose
+├── 76 Aranara
+├── 248 Loose Sand Pile
+├── Local Legend (Up to 4.6)
+├── Merchant (Up to 4.0)
+├── N Books
+│   ├── Dawn Winery
+│   ├── House of Daena
+│   ├── Komore Teahouse
+│   ├── Palais Mermonia
+│   ├── Yashiro Commission
+│   └── 蒙德骑士团
+└── N Enigmatic Pages
+    ├── A Thousand Nights
+    │   ├── A Thousand Nights 1
+    │   ├── A Thousand Nights 2
+    │   ├── A Thousand Nights 3
+    │   ├── A Thousand Nights 4
+    │   ├── A Thousand Nights 5
+    │   └── A Thousand Nights 6
+    └── Toki Alley Tales
+        ├── Toki Alley Tales 0
+        ├── Toki Alley Tales 1
+        ├── Toki Alley Tales 2
+        ├── Toki Alley Tales 3
+        ├── Toki Alley Tales 4
+        └── Toki Alley Tales 5
+            ├── Enkanomiya
+            └── 提瓦特

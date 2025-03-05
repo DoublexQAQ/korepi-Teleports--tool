@@ -1,0 +1,372 @@
+1 - 100% Regions
+├── 1 - Mondstadt
+│   ├── Anemoculus
+│   ├── Bloatty Floatties + Anemo Slime
+│   ├── Buried Chests
+│   ├── Campfire & Torch Puzzle
+│   ├── Challenge
+│   ├── Challenge in Monstadt Castle
+│   ├── Chests
+│   ├── Elemental Monuments
+│   ├── Flaming Slower Stamen
+│   ├── Seelie
+│   ├── Shrine of Depths
+│   ├── Storm Barrier Chests
+│   └── Thousand Winds Temple Chests
+├── 2 - Dragonspine
+│   ├── Challenge
+│   ├── Chests
+│   ├── Crimson Agate
+│   ├── Puzzle
+│   ├── Seelies
+│   ├── Snow Mountain Grand Ice Mine
+│   └── Snow Pile
+├── 3 - Liyue
+│   ├── Buried Chests
+│   ├── Challenge
+│   ├── Chests
+│   ├── Geoculus
+│   ├── Puzzles
+│   │   ├── Bloatty Floatty
+│   │   ├── Elemental Monument
+│   │   ├── Geo Lamp
+│   │   ├── Interact to Dig
+│   │   ├── Lit Torch Puzzle
+│   │   ├── Mini Puzzle
+│   │   ├── Pressure Plate Puzzle
+│   │   ├── Torch Puzzle
+│   │   └── Windmill Mechanism
+│   ├── Quests & NPC
+│   │   ├── Letter - Light the Firewood
+│   │   ├── Mt. Hulao (5+ chests, repeatable)
+│   │   ├── NPC Painting Quest (3 Chests)
+│   │   ├── NPC- 3 Adeptus chests（3 chests)
+│   │   ├── NPC-Jianse Nine Pillars (9+2 Chests)
+│   │   ├── NPC-Rescue
+│   │   ├── NPC-Soraya Quest (3 Chests)
+│   │   ├── NPC-Taishan Mansion Domain
+│   │   ├── NPC-The Chi of Yore(Many Chests)
+│   │   ├── NPC-Trails in Tianqiu (7+3 Chests)
+│   │   ├── NPC-Yaksha's Wish (6 Chests)
+│   │   └── Three consecutive chests
+│   ├── Ruins Treasure
+│   ├── Seelies
+│   └── Shrine of Depths
+├── 4 - Inazuma
+│   ├── 1 - Narukami Island
+│   │   ├── Blade Island Key
+│   │   ├── Bladed Island
+│   │   ├── Challenge
+│   │   ├── Chest
+│   │   ├── Chest that will Appear by Break a Jar
+│   │   ├── Cube Devices
+│   │   ├── Electrical conduction puzzles
+│   │   ├── Electro Seelie
+│   │   ├── Elemental Monument
+│   │   ├── Kid Kujirai
+│   │   ├── Little Fox
+│   │   ├── Mora Chest
+│   │   ├── Shrine of Depth
+│   │   └── Tanuki
+│   ├── 2 - Kannazuka Island
+│   │   ├── challenge
+│   │   ├── Chest
+│   │   ├── Cube Devies
+│   │   ├── Electrical conduction puzzle
+│   │   ├── Electro Seelie
+│   │   ├── Kid Kujirai
+│   │   ├── NPC
+│   │   ├── Puzzles that require players to use Electro
+│   │   └── Shrine of Depth
+│   ├── 3 - Yashiori Island
+│   │   ├── Challenge
+│   │   ├── Chest
+│   │   ├── Electro Seelie
+│   │   ├── Kid Kujirai
+│   │   ├── Missing text
+│   │   ├── Puzzle
+│   │   ├── Shrine of Depth
+│   │   ├── Tanuki
+│   │   ├── Torch
+│   │   └── Weapon for Electro characters
+│   ├── 4 - Watatsumi Island
+│   │   ├── Challenge
+│   │   ├── Chest
+│   │   ├── Electro Seelie
+│   │   ├── Kid Kujirai
+│   │   ├── Puzzle
+│   │   ├── Shrine of Depth
+│   │   ├── Tanuki
+│   │   └── Treasure Hoarders
+│   ├── 5 - Seirai Island
+│   │   ├── Challenge
+│   │   ├── Chest
+│   │   ├── Electro Seelie
+│   │   ├── Kid Kujirai
+│   │   ├── Puzzle
+│   │   └── Shrine of Depth
+│   ├── 6 - Tsurumi Island
+│   │   ├── 48 Stormstone
+│   │   ├── Challenge
+│   │   ├── Chest
+│   │   ├── Domain-Moshiri Kara
+│   │   ├── Electro Seelie Puzzle
+│   │   ├── Elemental Monument
+│   │   ├── Glowing Wall Symbol Puzzles
+│   │   ├── Lightning Strike Probe
+│   │   ├── NPC-Last ghost quest - All series collection
+│   │   │   ├── NPC - Nonno's Hide & Seek
+│   │   │   ├── NPC-Abe's fluorescent fungus （2nd time requires to wait 48 hours）
+│   │   │   ├── NPC-Ipe's Amulet Request
+│   │   │   ├── NPC-Kito & Kina's request
+│   │   │   ├── NPC-Rero Ghost Request
+│   │   │   ├── NPC-The last Boatman's Ghost event
+│   │   │   ├── NPC-Treasure map
+│   │   │   └── NPC-Una's Longing 7 days quests
+│   │   ├── Relay Stone
+│   │   ├── Shrine of Depth-Earth Spirit Shrine
+│   │   ├── Small Puzzle Chest
+│   │   ├── speed lit up stormstone（do not teleport）
+│   │   ├── Stone Slates Location
+│   │   ├── Thunderbird-Cube devices puzzle
+│   │   └── Tsurumi Island irl 3 days Remarkable Chest collection series
+│   │       ├── Day 1 Remarkable Chest
+│   │       ├── Day 2 Remarkable Chest
+│   │       └── Day 3 Remarkable Chest
+│   ├── 7 - Electroculus
+│   └── Other - Mora Chests 1.0-3.6
+├── 5 - The Chasm & Mines
+│   ├── 6 - The Chasm 2
+│   │   ├── 9-Word Secret
+│   │   ├── All Chests
+│   │   ├── Chests with Puzzles
+│   │   └── Visible Chests
+│   ├── Lumenspar
+│   └── Lumenspar ore
+├── 7 - Enkanomiya
+│   ├── DayTime Exposed+Puzzle
+│   ├── Enkanomiya Quest
+│   │   ├── 1 From Dusk to Dawn in Byakuyakoku
+│   │   │   ├── 1 The Subterranean Trials of Drake and Serpent
+│   │   │   ├── 2 The Heart of Ouroboros
+│   │   │   ├── 3 The Trail of Drake and Serpent
+│   │   │   ├── 4 Dreams in the Gaps
+│   │   │   └── 5 The Subterranean Trials of Drake and Serpent
+│   │   ├── 2 Erebos' Secret
+│   │   │   ├── 1 Yachimatahiko's Trial
+│   │   │   ├── 2 Yachimatahime's Trial
+│   │   │   ├── 3 Kunado's Trial
+│   │   │   └── 4 The Three Great Martial Trials
+│   │   ├── 3 Collection of Dragons and Snakes
+│   │   ├── 4 Hyperion's Dirge
+│   │   ├── 5 The Phaethons' Syrtos
+│   │   ├── 6 Lotus Eater
+│   │   ├── Hidden Achievement - Ill-Starred Legacy Of Iwakura
+│   │   ├── Hidden Achievement - The Children Of God Shall Dance
+│   │   ├── Hidden Achievement - What Difference Does This Make
+│   │   └── Hidden Achievement -Step Right Up
+│   ├── Key Sigil
+│   ├── Key Sigil Unlock
+│   └── Mora Chest
+├── 9 - Fontaine & Chenyun & Sea of Bygone Eras
+│   ├── 0 - Sea of Bygone Eras
+│   │   ├── 1 - Chests
+│   │   ├── 2 - Challenges
+│   │   ├── 3 - Puzzles
+│   │   ├── 4 - Oculus
+│   │   ├── 5 - Oculus (Puzzle)
+│   │   ├── 6 - Others
+│   │   ├── 7 - Seelie
+│   │   ├── 8 - Shrine of Depths
+│   │   └── 9 - Waypoints & Statues of Seven
+│   │       ├── Faded Castle & Sea of Bygone Eras
+│   │       ├── Petrichor
+│   │       └── Waverider
+│   ├── 1 - Oculus
+│   ├── 2 - Oculus (Quest & Puzzle)
+│   ├── 3 - Waypoints + Statues
+│   ├── 4 - Mora Chests
+│   ├── 5 - Chests
+│   ├── 6 - Seelies
+│   ├── 7 - Puzzles
+│   ├── 8 - Challenges
+│   ├── 9 - Others
+│   │   ├── Achievement Chest
+│   │   ├── Hidden Achievement - The Flying Outlander
+│   │   ├── Jade Fragment (For Hidden Achievements)
+│   │   ├── Midlander Claymore Billet
+│   │   ├── Radiant Spincrystal
+│   │   │   └── Behind Mysterious Bookshelves
+│   │   └── Things
+│   ├── 10 - Shrine of Depths
+│   ├── 11 - Buried Chests
+│   ├── 12 - Quests
+│   │   ├── Ancient Autoharmonic Music Box's Score
+│   │   │   └── Sea of Bygone Eras
+│   │   ├── Canticles of Harmony
+│   │   │   ├── 00 Prelude - Petrichorror Dream
+│   │   │   ├── 01 First Movement - In the Hall of the Sea King
+│   │   │   ├── 02 Second Movement - Prisoner In Shackles
+│   │   │   ├── 03 Third Movement - Pharsalia's Rhapsody
+│   │   │   │   ├── Part I
+│   │   │   │   └── Part II
+│   │   │   └── Blank Score
+│   │   ├── Energy Concentrating Component
+│   │   ├── Lost Grimoire & Mysterious Bookshelves
+│   │   │   └── Mysterious Bookshelves
+│   │   ├── Myterious Ore
+│   │   ├── Quest - Silently the Butterfly Crosses the Valley
+│   │   └── The Wild Fairy of Erinnyes
+│   ├── 13 - Viewpoints
+│   ├── 14 - Mobs & Plants & Others
+│   │   ├── Local Legend
+│   │   │   └── Local Legend - Sea of Bygone Eras
+│   │   ├── Mobs
+│   │   │   ├── Fatui Operative
+│   │   │   ├── Hilichurl Rogue
+│   │   │   ├── Praetorian Golem
+│   │   │   │   └── Sea of Bygone Eras
+│   │   │   ├── Tainted Hydro Phantasm
+│   │   │   └── Xuanwen Beast
+│   │   ├── Ores
+│   │   │   ├── Clearwater Jade
+│   │   │   │   ├── 48h
+│   │   │   │   └── One-Time
+│   │   │   └── Condessence Crystal
+│   │   └── Plants
+│   │       ├── Bulle Fruit
+│   │       ├── Chenyu Adeptea
+│   │       ├── Lakelight Lily
+│   │       ├── Lumitoile
+│   │       ├── Pluie Lotus
+│   │       ├── Romaritime Flower
+│   │       ├── Spring of the First Dewdrop
+│   │       │   ├── Collection
+│   │       │   ├── Inside Shell (Hit)
+│   │       │   └── Loot
+│   │       └── Subdetection Unit
+│   └── 15 - Spirit Carps
+├── 10 - Sumeru
+│   ├── 12 Dendroculus lock behind Withering Zone
+│   ├── Dendroculus
+│   │   ├── All Dendroculi
+│   │   ├── Death Domain Dendroculi
+│   │   ├── Dendroculi 3.0
+│   │   ├── Dendroculi 3.1
+│   │   ├── Dendroculi 3.4
+│   │   └── Dendroculi 3.6
+│   ├── Plume of Purifying Light
+│   ├── Primal Obelisk
+│   ├── Sacred Seal
+│   │   ├── 3.4
+│   │   └── Version 3.3 and previous
+│   ├── Semi-automatic desert
+│   ├── Sumeru Desert
+│   │   ├── Challenge
+│   │   ├── Chests
+│   │   ├── Dendrogranum
+│   │   ├── Dug up serach point
+│   │   ├── Elemental monument
+│   │   ├── Henna berry
+│   │   ├── Lit torch puzzle
+│   │   ├── Mysterious Mural
+│   │   ├── Primal Embers
+│   │   ├── Puzzles
+│   │   └── Seelie
+│   ├── Sumeru Desert of Hadramaveth
+│   │   ├── 100% Chests in Desert of Hadramaveth
+│   │   │   ├── 3.4 Sandstorm in the Desert of Hadramaveth Mora Chests
+│   │   │   ├── Cascade pools
+│   │   │   ├── Chests
+│   │   │   ├── Chests piece and activation devices
+│   │   │   ├── Dual-Phase Neverlight Cells and Dual-Phase Everlight Cells
+│   │   │   ├── dug up hidden chests
+│   │   │   ├── Elemental monument
+│   │   │   ├── Genesis of the Rift
+│   │   │   ├── Jinni in the magic bottle, liloupar 2
+│   │   │   ├── Mora chests
+│   │   │   ├── Primal sandglass puzzle
+│   │   │   ├── Primal Torch
+│   │   │   ├── Puzzles
+│   │   │   ├── Seelie
+│   │   │   ├── Seelie Puzzle
+│   │   │   ├── The Orchard of Pairidaeza Puzzle
+│   │   │   ├── Time Trial Challenge
+│   │   │   ├── Weathered Obelisk
+│   │   │   └── Wenut Puzzles
+│   │   ├── Artifacts 3,4
+│   │   ├── Dendroculus 3.4
+│   │   └── Sacred Seal 3.4
+│   ├── Sumeru Dharma Forest
+│   │   ├── 0 - Agnihotra Sutra after chapter
+│   │   ├── 1 - Stone Pillar Seal[16]
+│   │   ├── 2 - Static Views
+│   │   ├── 3 - 76 Aranara
+│   │   ├── 4 - Dream Nursery 12
+│   │   ├── 5 - EremitesCamps
+│   │   ├── 6 - 1 Mora Chest
+│   │   ├── 7 - Chest
+│   │   ├── 8 -Puzzle of the Past of Vanarana
+│   │   ├── 9 - Withering Corrosion
+│   │   ├── 10 - Phantasmal Gate
+│   │   ├── 11 - Puzzle
+│   │   ├── 12 - Challenge
+│   │   ├── 13 - Seelie
+│   │   ├── 14 - Sumeru puzzle
+│   │   ├── 15 - Lost Energy Block, please finish pupzzle first, if insufficient please refer here
+│   │   ├── 16 - Mysterious Parchment
+│   │   ├── 17 - Runes on the tree sumeru
+│   │   ├── 18 - Santon animal control expert quests
+│   │   ├── 19 - Riddle
+│   │   ├── 20 - The Price world quest
+│   │   ├── 21 - A brief encounter with a rare bird
+│   │   ├── 22 - Withering Corrosion
+│   │   ├── Challenge
+│   │   ├── Chest
+│   │   ├── Complete collection of puzzles
+│   │   ├── Image dug up hidden chests
+│   │   ├── Other
+│   │   ├── Phantasmal Gate
+│   │   ├── Seelie
+│   │   ├── Stone Pillar Seal
+│   │   └── Sumeru puzzles
+│   └── Sumeru Girdle of the Sands
+│       ├── A chest that can only be opened in co-op mode
+│       ├── A chest that will automatically open
+│       ├── A puzzle that involves planting grass seeds
+│       ├── Challenge
+│       ├── Drum Puzzle
+│       ├── Elemental Monument
+│       ├── Mora Chest
+│       ├── Must Take Seeds and Cannot Teleport
+│       ├── Plume of Purifying Light - Honey - Spirit Valley Tree - Udumbara Flower Puzzle
+│       ├── Quest
+│       │   ├── A world quest that players can obtain from Jean
+│       │   ├── In one game, each NPC can only be completed once
+│       │   └── Monumental Study
+│       ├── Seelie
+│       ├── Small Puzzle
+│       ├── Soul Bell
+│       └── Torch Puzzle
+└── 11 - Natlan
+    ├── Chests
+    │   ├── common
+    │   ├── exquisite
+    │   ├── hidden_chest
+    │   ├── luxurious
+    │   ├── morabox
+    │   ├── natlan_shrines_of_depths
+    │   ├── precious
+    │   ├── remarkable
+    │   └── WarriorChallenge
+    ├── Puzzles
+    │   ├── Monetoo
+    │   └── Time Trial
+    ├── Pyroculus
+    │   ├── Direct Lootable
+    │   └── Puzzle, Covered & Quest
+    │       └── Tales of Dreams Plucked From Fire (Pyroulus 72)
+    └── Teleports
+        ├── Statue-of-The-Seven
+        ├── tp-waypoint
+        └── Viewpoints

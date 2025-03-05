@@ -1,0 +1,11 @@
+12 - Waypoints & Statues
+├── 1 - Mondstadt + Liyue
+├── 2 - Inazuma
+├── 3 - Sumeru + Desert
+├── 4 - Chasm Underground
+├── 5 - Fontaine
+│   ├── Faded Castle & Sea of Bygone Eras
+│   ├── Petrichor
+│   └── Waverider
+├── 6 - Chenyu
+└── 7 - Natlan

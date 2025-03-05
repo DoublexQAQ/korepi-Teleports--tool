@@ -1,0 +1,148 @@
+4 - Plants
+├── Ajilenakh Nut
+│   └── Teyvat
+├── Amakumo Fruit
+│   └── Teyvat
+├── Apple
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Berry
+│   ├── Golden Apple Archipelago(1.6)
+│   ├── Golden Apple Archipelago(2.8)
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Beryl Conch
+├── Bird Egg
+│   └── Teyvat
+├── Bulle Fruit
+├── Calla Lily
+│   └── Teyvat
+├── Carrot
+│   └── Teyvat
+├── Cecilia
+│   └── Teyvat
+├── Chenyu Adeptea
+├── Clearwater Jade
+│   ├── 48h
+│   └── One-Time
+├── Crystal Marrow
+│   └── Teyvat
+├── Crystalfly
+├── Dandelion
+│   └── Teyvat
+├── Dendrobium
+│   └── Teyvat
+├── Flaming Flower
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Fluorescent Fungus
+│   └── Teyvat
+├── Glaze Lily
+│   └── Teyvat
+├── Harra Fruit
+│   └── Teyvat
+├── Horsetail
+│   └── Teyvat
+├── Jueyun Chili
+│   └── Teyvat
+├── Kalpalata Lotus
+│   └── Teyvat
+├── Lakelight Lily
+├── Lavender Melon
+│   └── Teyvat
+├── Lotus Head
+│   └── Teyvat
+├── Lumidouce Bell
+├── Lumitoile
+├── Marcotte
+├── Matsutake
+│   └── Teyvat
+├── Mint
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Mist Flower
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Mourning Flower
+├── Mushroom
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Naku Weed
+│   └── Teyvat
+├── Nilotpala Lotus
+│   └── Teyvat
+├── Onikabuto
+│   └── Teyvat
+├── Padisarah 1
+│   └── Teyvat
+├── Padisarah 2
+├── Philanemo Mushroom
+│   └── Teyvat
+├── Pinecone
+│   └── Teyvat
+├── Pluie Lotus
+├── Qingxin
+│   └── Teyvat
+├── Radish
+│   └── Teyvat
+├── Rainbow Rose
+├── Redcrest
+│   └── Teyvat
+├── Romaritime Flower
+│   ├── Collection
+│   ├── Land
+│   └── Underwater
+├── Rukkhashava Mushrooms
+│   └── Teyvat
+├── Sakura Bloom
+│   └── Teyvat
+├── Sand Grease Pupa
+│   └── Teyvat
+├── Sango Pearl
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Sea Ganoderma
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Seagrass
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Silk Flower
+│   └── Teyvat
+├── Small Lamp Grass
+│   └── Teyvat
+├── Snapdragon
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Spring of the First Dewdrop
+│   ├── Collection
+│   ├── Inside Shell (Hit)
+│   └── Loot
+├── Starconch
+│   └── Teyvat
+├── Starshroom
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Subdetection Unit
+├── Sumeru Rose
+│   └── Teyvat
+├── Sunsettia
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Sweet Flower
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Tidalga
+├── Valberry
+│   └── Teyvat
+├── Violetgrass
+│   └── Teyvat
+├── Windwheel Aster
+│   └── Teyvat
+├── Wolfhook
+│   └── Teyvat
+└── Zaytun Peach
+    └── Teyvat
