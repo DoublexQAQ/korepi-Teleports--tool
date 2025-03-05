@@ -1,0 +1,4 @@
+11 - Artifact Farming [圣遗物收集]
+├── Artifact Route A-127 [圣遗物路线 A-127]
+├── Artifact Route B-123 [圣遗物路线 B-123]
+└── Artifact Route both AB [圣遗物路线 AB 双路线]
