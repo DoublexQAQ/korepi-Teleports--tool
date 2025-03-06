@@ -1,0 +1,4 @@
+11 - Artifact Farming
+├── Artifact Route A-127
+├── Artifact Route B-123
+└── Artifact Route both AB

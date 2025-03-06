@@ -1,0 +1,35 @@
+3 - Minerals
+├── Amethyst Lump
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Archaic Stone
+├── Condessence Crystal
+│   ├── Collection
+│   ├── Land
+│   └── Underwater
+├── Cor Lapis
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Crystal Chunk
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Electro Crystal
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Enrichment ore point
+├── Iron Chunk
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Magical Crystal Chunk
+│   └── Teyvat
+├── Noctilucous Jade
+│   ├── Teyvat
+│   └── The Chasm Underground Mines
+├── Starsilver
+│   └── Teyvat
+├── Trishiraite
+└── White Iron Chunk
+    ├── Enkanomiya
+    ├── Teyvat
+    └── The Chasm Underground Mines

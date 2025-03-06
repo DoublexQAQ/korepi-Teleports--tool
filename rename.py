@@ -1,91 +1,105 @@
-import os
 import re
+import os
+from tkinter import filedialog
 from tkinter import Tk
-from tkinter.filedialog import askdirectory
 
-def natural_sort_key(s):
-    """自然排序键函数：数字优先，字母次之"""
-    return [int(text) if text.isdigit() else text.lower() 
-            for text in re.split(r'(\d+)', s)]
+def parse_tree(tree_text):
+    lines = [l.rstrip() for l in tree_text.split('\n') if l.strip()]
+    if not lines:
+        return []
+    
+    # 基础路径配置
+    base_path = r"D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh"
+    
+    # 初始化根目录（保留完整名称）
+    root_line = lines[0].strip()
+    # 仅去除行首的格式符号，保留完整内容
+    root_name = re.sub(r'^[├─└│\s]*', '', root_line).strip()  # 修改点1
+    current_path = os.path.join(base_path, root_name)
+    result = [current_path]
+    
+    # 使用栈记录路径层级
+    path_stack = [current_path]
+    level_stack = [0]
 
-def write_folder_structure(root_dir, output_file):
-    """为单个文件夹生成结构文件"""
-    try:
-        with open(output_file, 'w', encoding='utf-8') as f:
-            root_name = os.path.basename(os.path.normpath(root_dir)) or root_dir
-            f.write(f"{root_name}\n")
+    for line in lines[1:]:
+        try:
+            # 计算缩进层级
+            indent = len(re.match(r'^[\s│]*', line).group())
+            # 完整保留带[]的目录名（仅去除缩进符号）
+            line_content = re.sub(r'^[├─└│\s]*', '', line).strip()  # 修改点2
+
+            # 安全弹出逻辑
+            while len(level_stack) > 1 and indent <= level_stack[-1]:
+                path_stack.pop()
+                level_stack.pop()
+
+            # 构建新路径
+            new_path = os.path.join(path_stack[-1], line_content)
+            result.append(new_path)
             
-            dirs = sorted(
-                [d for d in os.listdir(root_dir) 
-                 if os.path.isdir(os.path.join(root_dir, d))],
-                key=natural_sort_key
-            )
-            
-            for i, dir_name in enumerate(dirs):
-                is_last = i == len(dirs) - 1
-                _write_tree(f, 
-                           os.path.join(root_dir, dir_name),
-                           "", 
-                           is_last)
-    except Exception as e:
-        print(f"生成 {output_file} 失败: {str(e)}")
+            # 更新栈状态
+            path_stack.append(new_path)
+            level_stack.append(indent)
+        except Exception as e:
+            print(f"解析行失败: {line} | 错误: {str(e)}")
+            continue
 
-def _write_tree(f, current_dir, prefix, is_last):
-    """递归生成树状结构"""
-    dir_name = os.path.basename(current_dir)
-    connector = "└── " if is_last else "├── "
-    f.write(f"{prefix}{connector}{dir_name}\n")
+    return result
+def process_single_file(input_file, output_folder):
+    """处理单个文件"""
+    with open(input_file, 'r', encoding='utf-8') as f:
+        structure_text = f.read()
     
-    new_prefix = prefix + ("    " if is_last else "│   ")
+    # 生成路径列表
+    path_pairs = parse_tree(structure_text)
     
-    try:
-        dirs = sorted(
-            [d for d in os.listdir(current_dir) 
-             if os.path.isdir(os.path.join(current_dir, d))],
-            key=natural_sort_key
-        )
-    except PermissionError:
-        return
+    # 生成输出文件名
+    base_name = os.path.splitext(os.path.basename(input_file))[0]
+    output_file = os.path.join(output_folder, f"{base_name}_paths.txt")
     
-    for i, sub_dir in enumerate(dirs):
-        is_sub_last = i == len(dirs) - 1
-        _write_tree(f, 
-                  os.path.join(current_dir, sub_dir),
-                  new_prefix, 
-                  is_sub_last)
+    # 避免覆盖已有文件
+    counter = 1
+    while os.path.exists(output_file):
+        output_file = os.path.join(output_folder, f"{base_name}_paths({counter}).txt")
+        counter += 1
+    
+    # 写入结果文件
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write("\n".join(path_pairs))
+    
+    return output_file
 
-if __name__ == '__main__':
+def main():
     root = Tk()
     root.withdraw()
     
-    # 支持连续多选（取消选择即结束）
-    selected_dirs = []
-    while True:
-        dir_path = askdirectory(title='选择文件夹（取消选择以结束）')
-        if not dir_path:
-            break
-        selected_dirs.append(dir_path)
+    # 批量选择输入文件
+    input_files = filedialog.askopenfilenames(
+        title="选择结构树文件（可多选）",
+        filetypes=[("Text files", "*.txt"), ("All files", "*.*")]
+    )
+    if not input_files:
+        print("未选择文件")
+        return
     
-    if not selected_dirs:
-        print("未选择任何文件夹，程序退出")
-        exit()
+    # 选择输出目录
+    output_folder = filedialog.askdirectory(title="选择保存目录")
+    if not output_folder:
+        print("未选择保存目录")
+        return
     
-    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # 处理所有文件
+    success_count = 0
+    for input_file in input_files:
+        try:
+            output_file = process_single_file(input_file, output_folder)
+            print(f"已生成：{output_file}")
+            success_count += 1
+        except Exception as e:
+            print(f"处理 {os.path.basename(input_file)} 失败：{str(e)}")
     
-    # 为每个选中的文件夹生成独立文件
-    for idx, folder_path in enumerate(selected_dirs, 1):
-        # 生成安全文件名
-        folder_name = os.path.basename(os.path.normpath(folder_path)) or f"未命名文件夹_{idx}"
-        safe_name = re.sub(r'[\\/*?:"<>|]', '_', folder_name)  # 替换非法字符
-        output_path = os.path.join(script_dir, f"{safe_name}_结构树.txt")
-        
-        # 避免覆盖已有文件
-        counter = 1
-        while os.path.exists(output_path):
-            output_path = os.path.join(script_dir, f"{safe_name}_结构树({counter}).txt")
-            counter += 1
-        
-        write_folder_structure(folder_path, output_path)
-        print(f"已生成：{output_path}")
+    print(f"\n处理完成！成功 {success_count}/{len(input_files)} 个文件")
 
-    print("所有结构文件生成完成！")
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,197 @@
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Book
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Fishing Point
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Local Legend
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Beryl Conch
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Bulle Fruit
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Lakelight Lily
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Lumidouce Bell
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Lumitoile
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Marcotte
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Pluie Lotus
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Rainbow Rose
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Romaritime Flower
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Spring of the First Dewdrop
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Spring of the First Dewdrop\Collection
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Spring of the First Dewdrop\Inside Shell (Hit)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Spring of the First Dewdrop\Loot
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Subdetection Unit
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Material\Tidalga
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mineral
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mineral\Condessence Crystal
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mineral\Condessence Crystal\Collection
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mineral\Condessence Crystal\Land
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mineral\Condessence Crystal\Underwater
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Breacher Primus
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Clockwork Meka
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Clockwork Meka\Collection
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Clockwork Meka\Land
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Clockwork Meka\Underwater
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Consecrated Beast
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Fontemer Aberrant
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Hillichurl Rogue
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Mob\Tainted Hydro Phantasm
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Radiant Spincrystal
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Tree
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Tree\Ash Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Tree\Cypress Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Tree\Linden Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Tree\Mallow Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Tree\Torch Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Fontaine\Viewpoints
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Fishing Point
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Amakumo Fruit
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Crystal Marrow
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Dendrobium
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Dendrobium\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Fluorescent Fungus
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Lavender Melon
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Lavender Melon\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Naku Weed
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Onikabuto
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Sakura Bloom
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Sango Pearl
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Sango Pearl\Enkanomiya
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Sango Pearl\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Sea Ganoderma
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Seagrass
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Seagrass\Enkanomiya
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Material\Seagrass\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Kairagi
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Nobushi
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Nobushi\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Rifthound
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Rifthound\Enkanomiya
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Rifthound\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Specter
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Vishap
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Vishap\Enkanomiya
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Inazuma\Mob\Vishap\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Fishing Point
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Cor Lapis
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Cor Lapis\层岩巨渊·地下矿区
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Cor Lapis\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Horsetail
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Jueyun Chili
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Noctilucous Jade
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Noctilucous Jade\层岩巨渊·地下矿区
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Noctilucous Jade\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Qingxin
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Silk Flower
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Material\Starconch
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Mob
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Mob\Black Serpent Knight
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Mob\Black Serpent Knight\Chasm
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Liyue\Mob\Black Serpent Knight\Teyvat
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Fishing Point
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Bamboo Shoot
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Bamboo Shoot\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Calla Lily
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Calla Lily\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Cecilia
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Dandelion Seed
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Philanemo Mushroom
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Small Lamp Grass
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Snapdragon
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Snapdragon\层岩巨渊·地下矿区
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Snapdragon\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Starsilver
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Starsilver\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Valberry
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Windwheel Aster
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Mondstadt\Material\Wolfhook
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Challenge
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Chest
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Chest\Buried (Hit with Tepetlisaurus or Kachina's Skill)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Chest\Buried Chest
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Chest\Covered, Guarded, Puzzle
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Chest\Direct Lootable
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Chest\Mora Chest (After All)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Local Legend
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Food Ingredients
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Food Ingredients\Cacahuatl
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Food Ingredients\Candlecap Mushroom
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Food Ingredients\Embercore Flower
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Food Ingredients\Grainfruit
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Food Ingredients\Spinel Fruit
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Local Specialties
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Local Specialties\Brilliant Chrysanthemum
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Local Specialties\Quenepa Berry
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Local Specialties\Saurian Claw Succulent
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Local Specialties\Sprayfeather Gill
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Wood\Ashen Aratiku Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Wood\Flammabomb Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Wood\Peach Palm Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Material\Wood\White Chestnut Oak Wood
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Monster
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Monster\Avatar of Lava
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Monster\Sauroform Tribal Warrior & Natlan Saurian
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Monster\Secret Source Automaton Hunter-Seeker
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Monster\Wayob Manifestation
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Pyroculus
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Pyroculus\Direct Lootable
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Pyroculus\Puzzle, Covered & Quest
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Pyroculus\Puzzle, Covered & Quest\Tales of Dreams Plucked From Fire (Pyroulus 72)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Radiant Spincrystal
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Relay Ball & Warrior's Challenges
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Seelie (Monetoo)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Shrine of Depth
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Viewpoint
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\Waypoints & Statues of Seven
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\A Saurian Lover's Ordinary Days
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Feeling Like Fish Today
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Lights, Kamera, Action
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Shadows of the Mountains
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Special Friends
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Tales of Dreams Plucked From Fire (Pyroulus 72)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Tepetlisaurus Hide-and-Seek
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\The Case of the Crafting Bench
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Those Searching for the Mysterious Island (After Archon Quest 5-1)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Natlan\World Quest\Treasures and Collectors (Monetoo 17)
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\28 Trishiraite
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Ajilenakh Nut
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Ajilenakh Nut\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Amethyst Lump
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Amethyst Lump\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Amethyst Lump\渊下宫
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Harra Fruit
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Harra Fruit\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Kalpalata Lotus
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Mourning Flower
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Nilotpala Lotus
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Padisarah
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Redcrest
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Rukkhashava Mushromms
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Sand Grease Pupa
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Scarab
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Starshroom
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Starshroom\Chasm
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Starshroom\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Sumeru Rose
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Zaytun Peach
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Material\Zaytun Peach\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\Consecrated Beast
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\Fungus
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\Fungus\层岩巨渊·地下矿区
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\Fungus\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\Hilichurl Rogue
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\Primal Construct
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\Primal Construct\提瓦特
+D:\桌面\Teleport-pack-zh-main\Teleport-pack-zh-main\zh\2 - General Region\Sumeru\Mob\The Eremites

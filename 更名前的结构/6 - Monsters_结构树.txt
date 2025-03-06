@@ -1,0 +1,98 @@
+6 - Monsters
+├── Abyss Mage
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Breacher Primus
+├── Clockwork Meka
+│   ├── Collection
+│   ├── Land
+│   └── Underwater
+├── Consecrated Beast
+├── Fatui Agent
+│   └── Teyvat
+├── Fatui Cicin Mage
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Fatui Mirror Maiden
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Fatui Operative
+├── Fatui Skirmisher
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Fontemer Aberrant
+├── Fungus
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Hilichurl
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Hilichurl Rogue
+├── Hilichurl Shooter
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Kairagi
+│   └── Teyvat
+├── Lawachurl
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Local Legend
+├── Mitachurl
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Nobushi
+│   └── Teyvat
+├── Ochimusha
+│   └── Teyvat
+├── Praetorian Golem
+│   └── Sea of Bygone Eras
+├── Primal Construct
+│   └── Teyvat
+├── Rifthound
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Ruin Drake
+│   └── Teyvat
+├── Ruin Grader
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Ruin Guard
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Ruin Sentinel
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Samachurl
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Slime
+│   ├── Enkanomiya
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Specter
+├── Tainted Hydro Phantasm
+├── The Black Serpents
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── The Eremites
+├── Treasure Hoarder
+│   └── Teyvat
+├── Unusual Hilichurl
+├── Vishap
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Whopperflower
+│   ├── Enkanomiya
+│   │   ├── Auto
+│   │   └── Manual
+│   └── Teyvat
+│       ├── Auto
+│       └── Manual
+└── Xuanwen Beast

@@ -1,0 +1,197 @@
+2 - General Region
+├── Fontaine
+│   ├── Book
+│   ├── Fishing Point
+│   ├── Local Legend
+│   ├── Material
+│   │   ├── Beryl Conch
+│   │   ├── Bulle Fruit
+│   │   ├── Lakelight Lily
+│   │   ├── Lumidouce Bell
+│   │   ├── Lumitoile
+│   │   ├── Marcotte
+│   │   ├── Pluie Lotus
+│   │   ├── Rainbow Rose
+│   │   ├── Romaritime Flower
+│   │   ├── Spring of the First Dewdrop
+│   │   │   ├── Collection
+│   │   │   ├── Inside Shell (Hit)
+│   │   │   └── Loot
+│   │   ├── Subdetection Unit
+│   │   └── Tidalga
+│   ├── Mineral
+│   │   └── Condessence Crystal
+│   │       ├── Collection
+│   │       ├── Land
+│   │       └── Underwater
+│   ├── Mob
+│   │   ├── Breacher Primus
+│   │   ├── Clockwork Meka
+│   │   │   ├── Collection
+│   │   │   ├── Land
+│   │   │   └── Underwater
+│   │   ├── Consecrated Beast
+│   │   ├── Fontemer Aberrant
+│   │   ├── Hillichurl Rogue
+│   │   └── Tainted Hydro Phantasm
+│   ├── Radiant Spincrystal
+│   ├── Tree
+│   │   ├── Ash Wood
+│   │   ├── Cypress Wood
+│   │   ├── Linden Wood
+│   │   ├── Mallow Wood
+│   │   └── Torch Wood
+│   └── Viewpoints
+├── Inazuma
+│   ├── Fishing Point
+│   ├── Material
+│   │   ├── Amakumo Fruit
+│   │   ├── Crystal Marrow
+│   │   ├── Dendrobium
+│   │   │   └── Teyvat
+│   │   ├── Fluorescent Fungus
+│   │   ├── Lavender Melon
+│   │   │   └── Teyvat
+│   │   ├── Naku Weed
+│   │   ├── Onikabuto
+│   │   ├── Sakura Bloom
+│   │   ├── Sango Pearl
+│   │   │   ├── Enkanomiya
+│   │   │   └── Teyvat
+│   │   ├── Sea Ganoderma
+│   │   └── Seagrass
+│   │       ├── Enkanomiya
+│   │       └── Teyvat
+│   └── Mob
+│       ├── Kairagi
+│       ├── Nobushi
+│       │   └── Teyvat
+│       ├── Rifthound
+│       │   ├── Enkanomiya
+│       │   └── Teyvat
+│       ├── Specter
+│       └── Vishap
+│           ├── Enkanomiya
+│           └── Teyvat
+├── Liyue
+│   ├── Fishing Point
+│   ├── Material
+│   │   ├── Cor Lapis
+│   │   │   ├── 层岩巨渊·地下矿区
+│   │   │   └── 提瓦特
+│   │   ├── Horsetail
+│   │   ├── Jueyun Chili
+│   │   ├── Noctilucous Jade
+│   │   │   ├── 层岩巨渊·地下矿区
+│   │   │   └── 提瓦特
+│   │   ├── Qingxin
+│   │   ├── Silk Flower
+│   │   └── Starconch
+│   └── Mob
+│       └── Black Serpent Knight
+│           ├── Chasm
+│           └── Teyvat
+├── Mondstadt
+│   ├── Fishing Point
+│   └── Material
+│       ├── Bamboo Shoot
+│       │   └── 提瓦特
+│       ├── Calla Lily
+│       │   └── 提瓦特
+│       ├── Cecilia
+│       ├── Dandelion Seed
+│       ├── Philanemo Mushroom
+│       ├── Small Lamp Grass
+│       ├── Snapdragon
+│       │   ├── 层岩巨渊·地下矿区
+│       │   └── 提瓦特
+│       ├── Starsilver
+│       │   └── 提瓦特
+│       ├── Valberry
+│       ├── Windwheel Aster
+│       └── Wolfhook
+├── Natlan
+│   ├── Challenge
+│   ├── Chest
+│   │   ├── Buried (Hit with Tepetlisaurus or Kachina's Skill)
+│   │   ├── Buried Chest
+│   │   ├── Covered, Guarded, Puzzle
+│   │   ├── Direct Lootable
+│   │   └── Mora Chest (After All)
+│   ├── Local Legend
+│   ├── Material
+│   │   ├── Food Ingredients
+│   │   │   ├── Cacahuatl
+│   │   │   ├── Candlecap Mushroom
+│   │   │   ├── Embercore Flower
+│   │   │   ├── Grainfruit
+│   │   │   └── Spinel Fruit
+│   │   ├── Local Specialties
+│   │   │   ├── Brilliant Chrysanthemum
+│   │   │   ├── Quenepa Berry
+│   │   │   ├── Saurian Claw Succulent
+│   │   │   └── Sprayfeather Gill
+│   │   └── Wood
+│   │       ├── Ashen Aratiku Wood
+│   │       ├── Flammabomb Wood
+│   │       ├── Peach Palm Wood
+│   │       └── White Chestnut Oak Wood
+│   ├── Monster
+│   │   ├── Avatar of Lava
+│   │   ├── Sauroform Tribal Warrior & Natlan Saurian
+│   │   ├── Secret Source Automaton Hunter-Seeker
+│   │   └── Wayob Manifestation
+│   ├── Pyroculus
+│   │   ├── Direct Lootable
+│   │   └── Puzzle, Covered & Quest
+│   │       └── Tales of Dreams Plucked From Fire (Pyroulus 72)
+│   ├── Radiant Spincrystal
+│   ├── Relay Ball & Warrior's Challenges
+│   ├── Seelie (Monetoo)
+│   ├── Shrine of Depth
+│   ├── Viewpoint
+│   ├── Waypoints & Statues of Seven
+│   └── World Quest
+│       ├── A Saurian Lover's Ordinary Days
+│       ├── Feeling Like Fish Today
+│       ├── Lights, Kamera, Action
+│       ├── Shadows of the Mountains
+│       ├── Special Friends
+│       ├── Tales of Dreams Plucked From Fire (Pyroulus 72)
+│       ├── Tepetlisaurus Hide-and-Seek
+│       ├── The Case of the Crafting Bench
+│       ├── Those Searching for the Mysterious Island (After Archon Quest 5-1)
+│       └── Treasures and Collectors (Monetoo 17)
+└── Sumeru
+    ├── Material
+    │   ├── 28 Trishiraite
+    │   ├── Ajilenakh Nut
+    │   │   └── 提瓦特
+    │   ├── Amethyst Lump
+    │   │   ├── 提瓦特
+    │   │   └── 渊下宫
+    │   ├── Harra Fruit
+    │   │   └── 提瓦特
+    │   ├── Kalpalata Lotus
+    │   ├── Mourning Flower
+    │   ├── Nilotpala Lotus
+    │   ├── Padisarah
+    │   ├── Redcrest
+    │   ├── Rukkhashava Mushromms
+    │   ├── Sand Grease Pupa
+    │   ├── Scarab
+    │   ├── Starshroom
+    │   │   ├── Chasm
+    │   │   └── 提瓦特
+    │   ├── Sumeru Rose
+    │   └── Zaytun Peach
+    │       └── 提瓦特
+    └── Mob
+        ├── Consecrated Beast
+        ├── Fungus
+        │   ├── 层岩巨渊·地下矿区
+        │   └── 提瓦特
+        ├── Hilichurl Rogue
+        ├── Primal Construct
+        │   └── 提瓦特
+        └── The Eremites

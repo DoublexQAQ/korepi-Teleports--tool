@@ -1,0 +1,149 @@
+10 - AFK Farming Materials
+├── 0 Enkanomiya farming route
+├── 0 Teyvat farming route
+│   ├── 24h_Artifact
+│   ├── 24h_Ingredients & Plant
+│   │   ├── Animal
+│   │   │   ├── Chilled Meat
+│   │   │   ├── Crab
+│   │   │   ├── Crystal flies
+│   │   │   ├── Eel, Unagi
+│   │   │   ├── Fish
+│   │   │   ├── Frog
+│   │   │   ├── Lizard
+│   │   │   ├── Loach
+│   │   │   └── Mysterious Meat
+│   │   └── Plant
+│   │       ├── Ajilenakh Nut
+│   │       ├── Apple
+│   │       ├── Bamboo Shoot
+│   │       ├── Bird Egg
+│   │       ├── Bulle Fruit
+│   │       ├── Carrot
+│   │       ├── Harra Fruit
+│   │       ├── Horsetail
+│   │       ├── Lavender Melon
+│   │       ├── Lotus Head
+│   │       ├── Matsutake
+│   │       ├── Pluie Lotus
+│   │       ├── Radish
+│   │       ├── Seagrass
+│   │       ├── Sunsettia
+│   │       ├── Tidalga
+│   │       └── Viparyas
+│   ├── 24h_Monster
+│   │   ├── Elite
+│   │   │   ├── Abyss Mage
+│   │   │   ├── Breacher Primus
+│   │   │   ├── Cicin Mage
+│   │   │   ├── Consecrated Beast
+│   │   │   ├── Fatui Agent
+│   │   │   ├── Hilichurl Chieftain
+│   │   │   ├── Hilichurl Rogue
+│   │   │   ├── Mirror Maiden
+│   │   │   ├── Primal Construct
+│   │   │   ├── Rifthound
+│   │   │   ├── Ruin Drake
+│   │   │   ├── Ruin Guard
+│   │   │   ├── Ruin Sentinel
+│   │   │   ├── Tainted Hydro Phantasm
+│   │   │   └── Vishap
+│   │   └── Mob
+│   │       ├── Clockwork Meka
+│   │       ├── Fatui
+│   │       ├── Fontemer Aberrant
+│   │       ├── Fungus
+│   │       ├── Hilichurl Shooter & Samachurl
+│   │       ├── Kairagi
+│   │       ├── Slime
+│   │       ├── Specter
+│   │       ├── The Eremites
+│   │       ├── Treasure Hoarders
+│   │       └── Whopperflower
+│   ├── 24h_Wood
+│   │   ├── Adhigama Wood
+│   │   ├── Aralia Wood
+│   │   ├── Ash Wood
+│   │   ├── Athel Wood
+│   │   ├── Bamboo Segment
+│   │   ├── Birch Wood
+│   │   ├── Brightwood
+│   │   ├── Cypress Wood
+│   │   ├── Fir Wood
+│   │   ├── Fragrant Cedar Wood
+│   │   ├── Karmaphala Wood
+│   │   ├── Linden Wood
+│   │   ├── Mallow Wood
+│   │   ├── Maple Wood
+│   │   ├── Mountain Date Wood
+│   │   ├── Otogi Wood
+│   │   ├── Pine Wood
+│   │   ├── Sandbearer Wood
+│   │   ├── Torch wood
+│   │   └── Yumemiru Wood
+│   ├── 48h_Accession Material
+│   │   ├── Amakumo Fruit
+│   │   ├── Beryl Conch
+│   │   ├── Calla Lily
+│   │   ├── Cecilia
+│   │   ├── Crystal Marrow
+│   │   ├── Dandelion
+│   │   ├── Dendrobium
+│   │   ├── Flaming Flower
+│   │   ├── Fluorescent Fungus
+│   │   ├── Glaze Lily
+│   │   ├── Henna Berrry
+│   │   ├── Jueyun Chili
+│   │   ├── Kalpalata Lotus
+│   │   ├── Lakelight Lily
+│   │   ├── Lumidouce Bell
+│   │   ├── Lumitoile
+│   │   ├── Mist Flower
+│   │   ├── Mourning Flower
+│   │   ├── Naku Weed
+│   │   ├── Nilotpala Lotus
+│   │   ├── Onikabuto
+│   │   ├── Padisarah
+│   │   ├── Philanemo Mushrom
+│   │   ├── Qingxin
+│   │   ├── Rainbow Rose
+│   │   ├── Romaritime Flower
+│   │   ├── Rukkhashava Mushrooms
+│   │   ├── Sakura Bloom
+│   │   ├── Sand Grease Pupa
+│   │   ├── Sango Pearl
+│   │   ├── Scarab
+│   │   ├── Sea Ganoderma
+│   │   ├── Silk Flower
+│   │   ├── Small Lamp Grass
+│   │   ├── Snapdragon
+│   │   ├── Spring of the First Dewdrop
+│   │   │   ├── Collection
+│   │   │   ├── Inside Shell (Hit)
+│   │   │   └── Loot
+│   │   ├── Starconch
+│   │   ├── Subdetection Unit
+│   │   ├── Valberry
+│   │   ├── Violetgrass
+│   │   ├── Windwheel Aster
+│   │   └── Wolfhook
+│   ├── 48h_Mineral
+│   │   ├── 72h_Crystal Chunk
+│   │   ├── Amethyst Lump
+│   │   ├── Condessence Crystal
+│   │   ├── Magical Cystal Chunk
+│   │   ├── Starsilver
+│   │   └── White Iron Chunk
+│   └── 48h_Special Mineral
+│       ├── Cor Lapis
+│       ├── Electro Crystal
+│       ├── Noctilucous Jade
+│       └── Trishiraite
+├── 0 The Chasm farming route
+├── 1 Max Elite Mobs
+├── 1 weapon ascension material
+├── 2 All Crystalfly in Teyvat
+├── 2 Artifacts
+├── 2 Fast Crystalfly farming
+├── 3 Various farming 1
+└── 3 Various farming 2

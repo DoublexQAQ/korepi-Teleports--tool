@@ -1,0 +1,52 @@
+9 - Animals
+├── 1  Raw Meat
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── 1 Fowl
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── 2  Raw Meat
+│   └── Teyvat
+├── 2 Fowl
+│   └── Teyvat
+├── 3 Fowl
+│   └── Teyvat
+├── 3 Raw Meat
+│   └── Teyvat
+├── 4 or 5 Raw Meats
+│   └── Teyvat
+├── Chilled Meat
+│   └── Teyvat
+├── Crab
+│   ├── Enkanomiya
+│   ├── Golden Apple Archipelago (1.6)
+│   └── Teyvat
+├── Crystalflies
+├── Eel, Unagi
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Fish
+│   ├── Enkanomiya
+│   ├── Golden Apple Archipelago (1.6)
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Frog
+│   ├── Enkanomiya
+│   ├── Golden Apple Archipelago (1.6)
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Lizard
+│   ├── Enkanomiya
+│   ├── Golden Apple Archipelago (1.6)
+│   ├── Teyvat
+│   └── The Chasm Underground Mine
+├── Loach
+│   ├── Enkanomiya
+│   └── Teyvat
+├── Lucklight Flies
+│   └── The Chasm Underground Mine
+├── Mysterious Meat
+├── Scarab
+│   └── Teyvat
+└── Weasel Thief
+    └── Teyvat
